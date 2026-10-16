@@ -1,4 +1,4 @@
-# El Buen Alumno v.6
+# El Buen Alumno
 **A Student Pilot's Guide to Airmanship, Flight Training & Career Foundations**
 
 **DISCLAIMER:** This study overview and guide is designed to accompany your flight training, spark deeper understanding, and support your journey toward becoming the best pilot you can be. It is for informational and educational purposes only and does in no way replace or contradict official school Standard Operating Procedures (SOPs), approved Aircraft Flight Manuals (AFM) / Pilot's Operating Handbooks (POH), or regulatory requirements from EASA, AESA, or the FAA. Always consult your specific aircraft POH and academy SOPs for exact speeds, power settings, flap configurations, and operational limitations.
