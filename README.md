@@ -14,4 +14,4 @@ Got an idea to make the page convert better or load faster? Open an issue or sub
 
 Scan and share QR code to stay up to date with the latest version: 
 
-<img width="2145" height="2145" alt="image" src="https://github.com/user-attachments/assets/16e5d459-7b83-44a5-a728-12acc792d577" />
+<img width="2255" height="2255" alt="image" src="https://github.com/user-attachments/assets/d012222b-62d1-4f1e-a29c-da786db66c32" />
