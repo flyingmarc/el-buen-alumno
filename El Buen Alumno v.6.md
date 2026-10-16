@@ -446,13 +446,54 @@ Expand your horizons by planning cross-country routes that challenge your naviga
 
 Achieving your Private Pilot License is another momentous milestone. The next stages step up the standard from foundational flying to precision-based, professional and commercial operations.
 
-### Coming Soon Part 4: Advanced Stages (Night VFR & UPRT)
+### Coming Soon Part 4: Advanced Stages (Night VFR)
 
 **Night VFR**
 Night flying introduces sensory illusions (black-hole approach, autokinesis). You must master aerodrome lighting systems and divide attention deliberately between outside visual cues and flight instruments to cross-check attitude, heading and speed.
 
-**Upset Prevention & Recovery Training (UPRT)**
-UPRT trains you to overcome the startle effect and surprise during extreme attitudes. Master recovery dynamics: for nose-high upsets, push forward to unload the wing before rolling level and applying power; for nose-low spiral dives, retard throttle to idle first, level wings, stop the roll with opposite rudder and smoothly recover from the dive without overloading the wings.
+### **Advanced Upset Prevention & Recovery Training (UPRT)**
+
+For some, the Advanced Upset Prevention and Recovery Training (UPRT) module is the most anticipated part of their flight training. For others, it is a significant source of anxiety. Both reactions are perfectly normal. It is important to understand from the outset: the goal of this course is not to turn you into an aerobatic pilot. The objective is to expand your situational awareness and confidence so that if you ever encounter an unintended extreme flight attitude, your reaction will be trained, calm, and correct. Additionally UPRT trains you to overcome the startle effect and surprise during unusual attitudes. 
+
+<img width="419" height="415" alt="image" src="https://github.com/user-attachments/assets/b1dc1ad7-b187-4d83-b47e-3e62fff99dde" />
+
+The Advanced UPRT course consists of theory followed by two dedicated flight sessions (roughly 1.5 hours each). We conduct these flights directly over the aerodrome at a safe altitude of 5,500 to 6,000 feet.
+
+Aircraft Preparation and Configuration
+Because we will be subjecting the aircraft to increased load factors, we operate strictly within the Utility Category. Make sure you use the Utility Mass and Balance sheets for these flights. You will fly these missions very light, with minimal fuel, typically around 10 gallons per tank. Additionally, ensure the engine oil is at more than 7 quarts; this helps prevent the oil pump from drawing air during zero-G or negative-G maneuvers.
+
+Pre-flight critical check: The cabin must be completely sterile. Absolutely no loose items, pens, kneeboards, or water bottles can be left unsecured. In a zero-G environment, a loose object can jam flight controls.
+
+Physiology and Communication
+Flying unusual attitudes can induce motion sickness. We expect this, and we manage it actively.
+Signs that your body is reaching its limit include breaking into a cold sweat, turning pale, or sudden changes in your overall feeling. Its common to use a  1-to-10 scale to communicate how you are feeling.
+ 
+ * Level 1-2: You are feeling fine and ready for the next maneuver.
+ * Level 3-4: You need a pause of the exercises, open the air vents, and fly straight and level for a few minutes to let your vestibular system reset.
+ * Level 5-7: We need an extended break to breathe and calm down and switch to less intense exercises.  
+ * Level 8-9: We stop the session and immediately turn back to land.
+Never try to "tough it out" in silence. Open communication ensures you actually learn from the session rather than just enduring it.
+
+Why Upsets Happen
+An airplane rarely enters an upset on its own. Understanding the root causes is the first step in prevention:
+ * Environmental Factors: Wake turbulence from heavier aircraft, severe wind shear, or mountain wave rotors can aggressively roll or pitch a light aircraft beyond normal limits.
+ * Pilot-Induced / Distraction: Spatial disorientation (especially when inadvertently entering Instrument Meteorological Conditions), dropping a pen and reaching for it, or fixating on a malfunctioning instrument can cause a pilot to unconsciously input fatal control deflections.
+ * System Failures: Instrument failures (like a vacuum pump failure causing a slowly tumbling attitude indicator) can trick a pilot into entering a "graveyard spiral" if they follow the faulty instrument.
+
+The Flight Sessions
+The flights focus on recognizing and recovering from Nose-High, Nose-Low, and Spiral Dive unusual attitudes. We then progresses to advanced Stall events (including accelerated and zero-G stalls), Spin recognition and Spin recovery.
+
+Execution and Transfer of Controls
+During the exercises, there is limited time for the standard "I have control / You have control" handover. The instructor will induce the upset, and at the critical moment ask you to: "Recover." That is the key for you to immediately take the flight controls and execute the correct recovery sequence.
+
+General Recovery Principles
+While every situation is unique, the core tenets of upset recovery remain consistent.
+ * Nose High = Good (Manage Energy). You have altitude but are losing airspeed. You may need to add power, apply forward pressure (potentially using 0-G or gently pushing to 1-G to help the nose track down), and roll wings level only after the angle of attack is safely reduced. A common mistake here is pushing the nose down too aggressively (past 10 degrees nose down), which merely transitions a nose-high upset into a nose-low upset.
+ * Nose Down = Bad (Manage Speed). You are rapidly losing altitude and gaining airspeed. The immediate priority is to reduce the throttle to idle to stop the acceleration, roll the wings level using ailerons, and carefully pull out of the dive. A crucial hazard here is pulling back too hard while at low speeds or while still in a bank, which can induce an accelerated stall or a spin.
+
+In General Aviation aircraft, full aileron deflection is highly effective at returning the aircraft to the horizon, while the rudder is utilized aggressively to arrest yaw and prevent a spin from developing.
+
+(For theoretical context: If you progress to fly swept-wing transport category aircraft, these aerodynamics shift. Swept wings are highly susceptible to roll-coupling, and large underslung jet engines create massive pitching moments when power is added or reduced. However, the golden rule of aerodynamics remains universal regardless of the aircraft: you must always reduce the Angle of Attack first to regain control effectiveness before attempting to fix your roll or flight path.)
 
 ---
 
