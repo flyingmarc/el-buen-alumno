@@ -277,6 +277,17 @@ Understanding your cockpit layout and basic instruments reduces cognitive load. 
 *   **Pitot-Static System:** This system drives your Airspeed Indicator, Altimeter, and Vertical Speed Indicator (VSI). The pitot tube measures ram air pressure, while the static port measures ambient pressure. Ensure both are clear of blockages (like bugs or ice) during preflight.
 *   **Vacuum System:** Powers gyroscopic instruments like the Attitude Indicator and Heading Indicator. Always check the vacuum gauge (suction in the green arc) after engine start or at least during runup to ensure gyros are spooling up correctly.
 
+<img width="2042" height="1287" alt="image" src="https://github.com/user-attachments/assets/cd1160e9-8bc2-4432-a43d-73d2b97bf6fe" />
+
+#### The Radio Panel
+
+There are several versions of Audio and Radio setups available but most follow a very similar approach. Familiarize yourself with the Panel and Radios as well as Navigation Equipment during your walk around and first flights. 
+
+The Top Panel is usually the Audio Panel that houses the intercom between the two pilots as well as options to listen and talk to the radios (usually the units placed below the audio panel) as well as to passengers and Navigation equipment (marker beacons, DME’s etc..). You can only talk on one frequency but listen to multiple sources like Radios. The bottom panels are the individual Radios where you can select radio and nav frequencies to listen and have on standby. 
+
+You usually switch the units on with the volume button by either pressing or rotating the knob clockwise. If you do not succeed, double-check if you have a Master Avionics Switch and if it is turned on. 
+
+
 ### Do it like an Airline Pilot
 It is common practice in airlines to minimize conversations to essential topics during take off, landing and taxiing, these are called Sterile Cockpit Phases. While taxiing you should concentrate on that task without adjusting or setting up instruments, refrain from reading checklists or charts during taxi. If you absolutely need to do something either stop or slow down the aircraft, if it is save to do so, or ask to hand over controls to your instructor.
 
