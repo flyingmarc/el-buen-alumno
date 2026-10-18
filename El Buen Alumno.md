@@ -659,5 +659,5 @@ Science shows that how you treat your body directly impacts how well you remembe
 # Appendix
 ---
 
-[Click here to view Links for further Research and Reading](Links.md)
+[Click here to view Links for further Research and Reading](Links)
 
