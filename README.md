@@ -2,7 +2,7 @@
 
 Welcome to the front door of **El Buen Alumno**. 
 
-This repository houses the code and visual assets for the main landing page. It’s built to be fast, look great, and get students exactly where they need to go without the fluff.
+This repository houses the code and visual assets for El Buen Alumno - a guide for aspiring Pilots in Training and beyond. It’s built to be fast, look great, and get YOU exactly where you need to go without the fluff.
 
 [Click me for Links for your own research](Links.md)
 
