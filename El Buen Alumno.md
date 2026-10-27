@@ -514,8 +514,8 @@ In General Aviation aircraft, full aileron deflection is highly effective at ret
 Precision flying strictly by reference to instruments. You will master radial tracking, intercepts, and holding patterns, DME Arcs and approaches in the simulator as well as executing them in the air. Instrument scanning relies on the fundamental relationship: Power + Attitude = Performance.
 
 To succeed in this environment, you must adopt the IFR golden rules:
-*   act quickly and smooth,
-*   firmly believe your instruments over your physical sensations to prevent sensory illusions (such as "the leans"), and
+*   act quick and smooth,
+*   believe your instruments over your physical sensations to prevent sensory illusions (such as "the leans"), and
 *   rely on the primary control mantra of Change - Check - Hold - Trim.
 
 ### IFR Threat & Error Management (TEM) and Flight Outlines
@@ -525,6 +525,8 @@ To manage the intense single-pilot workload, mentally break down the IFR flight 
 *   Departure (SIDs or non-standard routing),
 *   En-route (Airways, point-to-point tracking), and
 *   Arrival (STARs, radar vectors, and stabilized approaches).
+
+[Click here to view the InDepth IFR Guide](InDepthIFRGuide.md)
 
 ### SPISIM Sessions
 You have 10 two hour sessions to cover the basics of Instrumental precision flying. You should focus on developing an instrument scan: Starting with the attitude indicator and short deviations to Airpseed Indicator / back to Attitude / Altitude / Attitude / Directional / Atittude / Vertical Speed.. Your eyes should constantly radiate out from the Attitude Indicator to the performance instruments (Airspeed, Altitude, Directional, Vertical Speed) and immediately back to the center.
@@ -660,4 +662,10 @@ Science shows that how you treat your body directly impacts how well you remembe
 ---
 
 [Click here to view Links for further Research and Reading](Links.md)
+
+[Click here to view the InDepth IFR Guide](InDepthIFRGuide.md)
+---
+
+
+
 
