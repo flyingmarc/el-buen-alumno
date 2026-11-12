@@ -10,6 +10,12 @@ Focused on Helicopter Pilots but easily adaptable to Fixed Wing Pilots with lots
 
 https://www.faa.gov/general/flight-risk-assessment-tool-frat-faa-safety-team
 
-Official guidance material and a ready-to-use tool for Risk Assessment. 
+Official guidance material and a ready-to-use tool for Risk Assessment from the Federal Aviation authority (USA). 
 
 ---
+
+https://insigniavfr.enaire.es
+
+Enaire VFR Map of Spain with Notams and Airspaces. This is an Official Source for Notams in Spain. 
+
+—-
