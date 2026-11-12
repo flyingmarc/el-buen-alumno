@@ -1,6 +1,6 @@
 # **Universal In-Depth IFR Guide**
 
-Chronological workflow for Instrument Flight Rules (IFR) Flights, generalized for various aircraft types and variants.
+Workflow for Instrument Flight Rules (IFR) Flights, generalized for various aircraft types and variants.
 
 
 ## 1. Pre-Flight Preparation and Ground Setup
@@ -29,7 +29,7 @@ Chronological workflow for Instrument Flight Rules (IFR) Flights, generalized fo
 
 - **Alternates:** Select suitable take-off and destination alternates equipped with conventional navaids in case of GNSS failure, ensuring you are not solely reliant on satellite-based guidance. 
   - *Alternate Selection (EASA):* Under EASA Part-NCO (Non-Commercial Operations), the selection of destination alternates is mandatory unless specific, stringent meteorological criteria are met. An alternate is not required if the destination is an isolated aerodrome, or if the forecast weather from one hour before to one hour after the Estimated Time of Arrival (ETA) indicates visual meteorological conditions (VMC) featuring a ceiling of at least 2,000 ft (or circling height plus 500 ft, whichever is greater) and a ground visibility of at least 5 km. SideNote: Commercial Air Transport (Part-CAT) operations enforce much stricter alternate requirements, often mandating two destination alternates if the weather falls below specific thresholds or if meteorological information is unavailable.
-- **NOTAMs:** Review standard NOTAMs, SBAS NOTAMs (for Satellite-Based Augmentation System availability like the European Geostationary Navigation Overlay Service EGNOS).
+- **NOTAMs:** Review standard IFR NOTAMs, SBAS NOTAMs (for Satellite-Based Augmentation System availability like the European Geostationary Navigation Overlay Service EGNOS).
 
 ### 1.2 Equipment and GNSS Setup
 To operate effectively within Performance-Based Navigation (PBN) environment, you should understand the underlying mechanisms of GNSS. These systems operate on the principle of one-way ranging. Because aircraft receivers lack atomic clocks, a minimum of four satellites is required to mathematically solve for three-dimensional position (latitude, longitude, altitude) and receiver clock bias.
@@ -61,12 +61,14 @@ Prior to taxi, the flight crew must obtain an IFR clearance from Air Traffic Con
 - **F - Frequency:** The departure control radio frequency to contact immediately upon becoming airborne.
 - **T - Transponder:** The 4-digit squawk code to identify the aircraft on the radar screen.
 
+You are required to read-back any clearances and they will be confirmed as “Read-back Correct” by ATC. Make sure to write them down for yourself. 
+
 ### 2.1 The Departure Briefing
 The departure briefing must be completed before declaring ready for departure. It ensures situational awareness and compliance with standard procedures.
 - **Identify:** Aerodrome name, approach plate date, and name of the SID/Runway in use.
 - **Routing & Setup:** Review the take-off path, initial routing, and verify radio aid selections.
-- **Restrictions:** Note any departure restrictions such as climb gradients, altitude caps, or speed limits.
-- **Obstacle Clearance:** Note the Minimum Sector Altitude (MSA).
+- **Restrictions:** Note any departure restrictions such as climb gradients, altitude caps, or speed limits. (Check for any flags, notes or remarks on the plate)
+- **Obstacle Clearance:** Note the Minimum Sector Altitude (MSA). 
 - **Contingencies & Emergencies:**
   - Check minimum climb gradients against aircraft performance charts (especially important for multi-engine aircraft evaluating one-engine-inoperative scenarios).
   - Determine the plan for an emergency (e.g., engine failure) in VMC vs. IMC. Priorities: 1. Fly the aircraft, 2. Navigate (proceed visually, follow SID, or divert to low MSA), 3. Communicate (declare emergency).
@@ -81,9 +83,18 @@ The departure briefing must be completed before declaring ready for departure. I
 
 
 ### 3.2 Take-Off Procedures and ATC Communications
-Executing an instrument take-off requires the pilot flying (PF) to make an immediate, decisive transition from visual external cues to the internal instrument scan the moment the aircraft rotates. The scan utilizes the "hub-and-spoke" method, centered heavily on the Attitude Indicator to establish the initial pitch target, rapidly cross-checking the Airspeed Indicator, Altimeter, and Heading Indicator to confirm performance.
+Executing an instrument take-off requires the pilot flying (PF) to make an immediate, decisive transition from visual external cues to the internal instrument scan the moment the aircraft rotates.
+This transition relies on the Selective Radial Scan. Your eyes must remain on the Attitude Indicator 80-90% of the time to establish and hold the initial pitch target. From this center point, “radiate” your eyes outward to check specific performance instruments before immediately returning to the center: first checking the slip/skid indicator for coordination, then cross-checking the Airspeed Indicator, Altimeter, and Heading Indicator to confirm you are on parameters.  
+Stick to the IFR Basics: 
+1. Believe your instruments over your physical sensations to prevent sensory illusions.  
+2. Power + Attitude = Performance. If you have the correct attitude and power setting you are safe.   
+3. Change – Check – Hold – Trim: Because of inertia, make the attitude change, check the performance instruments, hold the new attitude, and trim to relieve control pres
 
-Standard ATC communications during departure under ICAO and EASA rules utilize precise phraseology to dictate altitude profiles. When cleared on a SID containing published altitude constraints, ATC will issue the command, "Climb via SID to Level". This instructs the crew to follow the lateral path and comply with all published intermediate vertical constraints up to the cleared level. Conversely, if ATC states "Climb unrestricted to Level," all intermediate altitude restrictions on the SID are cancelled, allowing a continuous climb. ATC instructions override published procedures but it does not hurt to ask if they are contradicting or over-ride any published restrictions. 
+<img width="1304" height="898" alt="image" src="https://github.com/user-attachments/assets/2b4451cb-4ef7-4a67-b089-7fd4c042267d" />
+
+Side Note: Statistically, most accidents happen within the first 3 minutes of GA IFR flights, typically when transitioning from VFR into IFR conditions. 
+
+Standard ATC communications during departure under ICAO and EASA rules utilize precise phraseology to dictate altitude profiles. When cleared on a SID containing published altitude constraints, ATC will issue the command, "Climb via SID to Level". This instructs the crew to follow the lateral path and comply with all published intermediate vertical constraints up to the cleared level. Practically you most likely will hear “Climb as cleared.” which refers to the initial clearance altitude and procedure. Conversely, if ATC states "Climb unrestricted to Level," all intermediate altitude restrictions on the SID are cancelled, allowing a continuous climb. ATC instructions override published procedures but it does not hurt to clarify when they are contradicting or over-ride any published restrictions. 
 
 ## 4. En-Route and Cruise Phase
 
