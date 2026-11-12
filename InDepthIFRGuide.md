@@ -128,6 +128,7 @@ Standard ATC communications during departure under ICAO and EASA rules utilize p
 ### 4.1 Establishing Cruise
 - **Power Settings:** Transition to the appropriate cruise power setting (Low, Medium, or High Cruise) per aircraft SOP.
 - **Altitude Changes:** Unless dictated by ATC or obstacle clearance, establish a standard maximum rate of climb or descent (e.g., 500 to 1,000 ft/min) to transition between flight levels smoothly. This minimizes passenger discomfort and prevents Traffic Collision Avoidance System (TCAS) Resolution Advisories, which can be triggered by excessive vertical closure rates near the assigned altitude.
+- Double check Transition Altitude and if you have set QNH or Standard Setting
 - **En-Route Communications:** In procedural (non-radar) airspace, accurate position reporting is essential. Standard phraseology dictates a specific sequence: Aircraft Identification, Position, Time, Flight Level, Next Position with ETA, and the Ensuing Significant Point.
 
 ### 4.2 Monitoring Progress and Clearances
