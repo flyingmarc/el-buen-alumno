@@ -71,7 +71,7 @@ Example:
 - SQUAWK (squawk number)
 - [AFTER DEPARTURE, (description of the non standard departure clearance manoeuvres, and/or change frequency)]\
 
-Example full clearance:
+Example full clearance: 
 ATC: IPL62SI, CLEARED TO LERE VIA TATOS3P departure, RUNWAY 06, CLIMB 4000 feet, SQUAWK 3456
 
 You are required to read-back any clearances and they will be confirmed as “Read-back Correct” by ATC. Make sure to write them down for yourself. 
@@ -251,6 +251,6 @@ While GNSS approaches dominate modern IFR, proficiency in conventional navigatio
 - **VOR and NDB Approaches - 2D:** VOR approaches rely on tracking specific VHF radials. Because VOR signals diverge outward from the station, the sensitivity of the CDI increases dramatically as the aircraft approaches the transmitter. NDB (Non-Directional Beacon) approaches, flown using an Automatic Direction Finder (ADF), are the least accurate. The ADF needle simply points to the station; it does not track a beam. Pilots must continuously calculate wind drift to fly a specific track (a QDM to the station, or a QDR from the station). NDBs are highly susceptible to errors such as coastal refraction, terrain shielding, and thunderstorm interference.
 
 ### 6.8 Missed Approach Procedures and Go-Around Philosophy
-The missed approach is a highly demanding maneuver requiring an immediate, aggressive transition from a low-energy descent to a high-energy climb. The psychological readiness to execute a go-around must be firmly established during the approach briefing to combat "plan continuation bias."
+The missed approach is a highly demanding maneuver requiring an immediate transition from a low-energy descent to a high-energy climb. The psychological readiness to execute a go-around must be firmly established during the approach briefing to combat "plan continuation bias." Always keep the option of a go around in the back of your mind. Setup your instruments to help you in the event of a go-around. 
 - **Execution Procedure:** ICAO Doc 8168 designs missed approach procedures assuming a nominal climb gradient of 2.5%. If an aircraft cannot meet this gradient (e.g., due to an engine failure, icing, or heavy gross weight), the approach cannot be safely flown in IMC, and an alternative destination must be sought.
 
