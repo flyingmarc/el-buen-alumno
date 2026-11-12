@@ -57,7 +57,7 @@ To operate effectively within Performance-Based Navigation (PBN) environment, yo
 
 
 ### 2.0 EASA/ICAO Clearance Structures (CRAFT)
-Prior to taxi, the flight crew must obtain an IFR clearance from Air Traffic Control (ATC). After completing the checklists contact ATC for the clearance and after read-back include it into your briefing. Standard ATC clearances globally utilize the same format to ensure no critical parameters are omitted. Pilots receive, copy, and read back clearances using the CRAFT acronym:
+Prior to taxi, the flight crew must obtain an IFR clearance from Air Traffic Control (ATC). Contact ATC for the clearance and after read-back include it into your briefing. After completing the briefing continue with the pre-departure checklist. Standard ATC clearances globally utilize the same format to ensure no critical parameters are omitted. Pilots receive, copy, and read back clearances using the CRAFT acronym:
 - **C - Clearance Limit:** The geographical point to which the aircraft is cleared (typically the destination aerodrome).
 - **R - Route:** The initial departure routing, which is generally a Standard Instrument Departure (SID) or specific radar vectors.
 - **A - Altitude:** The initial climb altitude or flight level (e.g., "Climb initially 5,000 feet").
