@@ -61,10 +61,21 @@ Prior to taxi, the flight crew must obtain an IFR clearance from Air Traffic Con
 - **F - Frequency:** The departure control radio frequency to contact immediately upon becoming airborne.
 - **T - Transponder:** The 4-digit squawk code to identify the aircraft on the radar screen.
 
+Example: 
+
+- CLEARED TO (destination airfield)
+- [VIA (departure SID identifier) DEPARTURE], [RUNWAY (departure runway)],
+- CLIMB (initial level),
+- SQUAWK (squawk number)
+- [AFTER DEPARTURE, (description of the non standard departure clearance manoeuvres, and/or change frequency)]\
+
+Example full clearance:
+ATC: IPL62SI, CLEARED TO LERE VIA TATOS3S departure, RUNWAY 06, CLIMB 4000 feet, SQUAWK 3456
+
 You are required to read-back any clearances and they will be confirmed as “Read-back Correct” by ATC. Make sure to write them down for yourself. 
 
 ### 2.1 The Departure Briefing
-The departure briefing must be completed before declaring ready for departure. It ensures situational awareness and compliance with standard procedures.
+The departure briefing must be completed before declaring ready for departure. It ensures situational awareness and compliance with standard procedures. Have the SID plate open and follow the procedure setting up the instruments. 
 - **Identify:** Aerodrome name, approach plate date, and name of the SID/Runway in use.
 - **Routing & Setup:** Review the take-off path, initial routing, and verify radio aid selections.
 - **Restrictions:** Note any departure restrictions such as climb gradients, altitude caps, or speed limits. (Check for any flags, notes or remarks on the plate)
@@ -72,6 +83,9 @@ The departure briefing must be completed before declaring ready for departure. I
 - **Contingencies & Emergencies:**
   - Check minimum climb gradients against aircraft performance charts (especially important for multi-engine aircraft evaluating one-engine-inoperative scenarios).
   - Determine the plan for an emergency (e.g., engine failure) in VMC vs. IMC. Priorities: 1. Fly the aircraft, 2. Navigate (proceed visually, follow SID, or divert to low MSA), 3. Communicate (declare emergency).
+
+<img width="1120" height="1678" alt="image" src="https://github.com/user-attachments/assets/f7d331ee-7dd9-4991-a24e-abd501592734" />
+
 
 ## 3. Standard Instrument Departure (SID) Procedures
 
