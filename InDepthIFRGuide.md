@@ -50,6 +50,8 @@ To operate effectively within Performance-Based Navigation (PBN) environment, yo
   - Ensure no "red flags" are displayed on active instruments. Be cautious when switching frequencies to avoid losing needle indications and preventing a sudden, disorienting loss of guidance.
   - Avoid using two navaids to display the same thing. 
 
+<img width="1516" height="1141" alt="image" src="https://github.com/user-attachments/assets/e674ea09-8261-4b6f-af21-65cf40f920f0" />
+
 ## 2. Take-Off Clearance and Briefing
 
 
