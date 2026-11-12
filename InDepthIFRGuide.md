@@ -44,13 +44,14 @@ To operate effectively within Performance-Based Navigation (PBN) environment, yo
   - Monitor the auto-test function on start-up. (On electromechanical HSIs or digital CDIs, this is verified by a needle deflection and the sequential showing of warning flags).
   - Check system settings: CDI scaling set to 'automatic', correct map datum (e.g., WGS84), and appropriate units of measure.
   - Select display fields to show Desired Track (DTK), Groundspeed (GS), and Distance to next waypoint (DIS) if possible or check this information is accessible to you.
+
+<img width="1516" height="1141" alt="image" src="https://github.com/user-attachments/assets/e674ea09-8261-4b6f-af21-65cf40f920f0" />
+
 - **Radio Setup (NAV 1 / NAV 2):**
   - Set up the maximum number of navaids. If a procedure requires two, set and identify both. Set remaining required navaids on standby. Optimal radio management minimizes cognitive overload during high-workload phases. Try to "work backwards" from the destination approach to the en-route structure.
   - Generally, use NAV 2 as the primary en-route navigation source (initial arrival routing, or intercepting the final approach course) and NAV 1 for approach or assist navigation (primary approach facility). Setting this early prevents rushing to tune and identify frequencies during the descent.
   - Ensure no "red flags" are displayed on active instruments. Be cautious when switching frequencies to avoid losing needle indications and preventing a sudden, disorienting loss of guidance.
   - Avoid using two navaids to display the same thing. 
-
-<img width="1516" height="1141" alt="image" src="https://github.com/user-attachments/assets/e674ea09-8261-4b6f-af21-65cf40f920f0" />
 
 ## 2. Take-Off Clearance and Briefing
 
