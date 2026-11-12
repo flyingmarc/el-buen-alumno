@@ -70,7 +70,7 @@ Example:
 - [AFTER DEPARTURE, (description of the non standard departure clearance manoeuvres, and/or change frequency)]\
 
 Example full clearance:
-ATC: IPL62SI, CLEARED TO LERE VIA TATOS3S departure, RUNWAY 06, CLIMB 4000 feet, SQUAWK 3456
+ATC: IPL62SI, CLEARED TO LERE VIA TATOS3P departure, RUNWAY 06, CLIMB 4000 feet, SQUAWK 3456
 
 You are required to read-back any clearances and they will be confirmed as “Read-back Correct” by ATC. Make sure to write them down for yourself. 
 
@@ -86,6 +86,12 @@ The departure briefing must be completed before declaring ready for departure. I
 
 <img width="1120" height="1678" alt="image" src="https://github.com/user-attachments/assets/f7d331ee-7dd9-4991-a24e-abd501592734" />
 
+Practice briefing different plates to familiarize yourself with the layout of the information and the procedures used. Try and focus on the relevant information for your flight only and keep it as short and concise (but structured) as possible. Visualize the steps to setup / brief and fly the procedures. 
+Here is an example of the information and sections found on a standard IFR Plate: 
+
+<img width="1947" height="1612" alt="image" src="https://github.com/user-attachments/assets/8e8c1c90-7823-4df3-a81b-5c4ddca5f71b" />
+
+This is for Training and practice only and not to be used for flying. 
 
 ## 3. Standard Instrument Departure (SID) Procedures
 
